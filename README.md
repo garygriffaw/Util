@@ -1,2 +1,2 @@
-# util
+# Utilities
 My utilities written in Java
